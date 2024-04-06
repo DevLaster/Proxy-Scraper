@@ -19,9 +19,6 @@ he tool validates user input to ensure it matches predefined options (HTTPS, SOC
   $ pip install socket
   $ pip install socks
   $ pip install requests
-
-
-
      or
   $ pip install -r requirements.txt
 
@@ -35,6 +32,6 @@ he tool validates user input to ensure it matches predefined options (HTTPS, SOC
    
 2. Run in cmd when you insall all the Libraries
    ```sh
-   python ddos.py
+   python proxy.py
 
 3. Enjoy (:
